@@ -1,8 +1,6 @@
-## University of Toronto - Department of Computer Science CSC2515 Fall 2017 Paper "Follow the Trend" an examination of lattice regression compared to lasso and random forest regression by Krist Papadopoulos
+### Follow the Trend - an examination of lattice regression compared to lasso and random forest regression by Krist Papadopoulos
 
-This repository includes an archive with the code and paper.
-
-The paper included experiments on the Boston Housing Dataset using the algorithms below to examine whether including linear biases such as prior assumptions of monotonicity between variables in lattice regression can improve performance of predictions by avoiding overfitting noise in the data:
+The [paper](https://github.com/kristpapadopoulos/HousePricePredictions/blob/master/CSC2515_Paper_Krist_Papadopoulos.pdf) included experiments on the Boston Housing Dataset using the algorithms below to examine whether including linear biases such as prior assumptions of monotonicity between variables in lattice regression can improve performance of predictions by avoiding overfitting noise in the data:
 
 1) Lasso Regression
 2) Random Forest Regression
