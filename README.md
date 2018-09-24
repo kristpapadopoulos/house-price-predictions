@@ -1,6 +1,6 @@
 # Follow the Trend
 
-## An examination of lattice regression against to lasso and random forest regression 
+## An examination of lattice regression against lasso and random forest regression 
 
 ## by Krist Papadopoulos
 
